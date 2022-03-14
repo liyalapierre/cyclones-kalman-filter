@@ -4,7 +4,7 @@
 Predicting Tropical Cyclone Paths Using the Kalman Filter
 
 ## Group Members
-Ezra Berg
+Ezra Berg,
 Liya LaPierre
 
 ## Project Description
